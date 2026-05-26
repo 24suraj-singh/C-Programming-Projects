@@ -13,7 +13,7 @@ int main(){
     printf("Enter Pincipal :");
     scanf("%lf", &principal);
     printf("Enter rate of intrest per.annum(in percentage):");
-    scanf("%lf/100",&rate_pa);
+    scanf("%lf",&rate_pa);
     printf("Enter time of investmest/loan (IN YEARS) :");
     scanf("%d", &time_years);
     printf("Times Compunded Per Year :");
